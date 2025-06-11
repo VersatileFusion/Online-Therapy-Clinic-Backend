@@ -1,7 +1,7 @@
-# Online Therapy Clinic Backend | بک‌اند کلینیک درمان آنلاین
+# Online Therapy Clinic Backend 
 
 A comprehensive backend system for an online psychology clinic, built with Express.js and PostgreSQL.
-سیستم جامع بک‌اند برای کلینیک روانشناسی آنلاین، ساخته شده با Express.js و PostgreSQL.
+
 
 ## Features 
 
