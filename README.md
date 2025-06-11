@@ -1,4 +1,4 @@
-# Online Therapy Clinic Backend 
+# Clinic Backend 
 
 A comprehensive backend system for an online psychology clinic, built with Express.js and PostgreSQL.
 
